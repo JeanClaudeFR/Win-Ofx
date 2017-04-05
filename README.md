@@ -7,3 +7,6 @@ Tested multi-GPU CUDA and OPENCL.
 26 February 2017
 New OFX with icone. Unzip and install to C:\Program Files\Common Files\OFX\Plugins
 
+04 April 2017
+New OFX : FilmGradePluginV1.1.ofx.bundle and MatrixPluginV2.2.ofx.bundle
+
